@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039941756603",
+    "project_id": "szinhaz-jegy",
+    "storage_bucket": "szinhaz-jegy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039941756603:android:f6def6c1b35ad1520cab9e",
+        "android_client_info": {
+          "package_name": "hu.szte.szinhazjegy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQclHIYer1Zj1wRsE0CvCELkRuSbTI0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

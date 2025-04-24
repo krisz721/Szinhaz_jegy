@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Szinhaz jegy</string>
+    <string name="reg">Nincs fiókod? Regisztrálj!</string>
+    <string name="email">Email</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="pass">Jelszó</string>
+</resources>
